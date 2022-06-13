@@ -6,6 +6,7 @@
  >>> ![Screenshot_2](https://user-images.githubusercontent.com/96000792/173457925-8c6c844b-afa7-4e45-a26e-00a8741a9880.png)
  
  >> Girilen İki Sayının Küplerinin Toplamı 
+ >
  >> Çözüm 1
  >> ![Screenshot_3](https://user-images.githubusercontent.com/96000792/173457931-75470097-1c24-4237-a591-ddcac10fe6bc.png)
 
@@ -22,7 +23,7 @@
  >> ![Screenshot_7](https://user-images.githubusercontent.com/96000792/173457943-3129fa94-cee5-4183-ba16-2efc4ad8b433.png)
 
  >> Çarpma işlemi sonucunu toplama yaparak bulma
- >> 
+ >
  >> Çözüm 1
  
  >> ![Screenshot_8](https://user-images.githubusercontent.com/96000792/173457944-3efa4423-a4ae-4f4a-a644-855b3778561f.png)
