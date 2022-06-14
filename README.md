@@ -37,6 +37,10 @@
  - Girilen sayının kaç basamaklı olduğunu bulmak
  > ![Screenshot_12](https://user-images.githubusercontent.com/96000792/173457921-b39454e8-278a-4975-8bd8-057253efc818.png)
 
+ - 3 basamaklı sayının basamaklarının küpleri toplamının sayının kendisine eşit olup olmadığını hesaplamak
+ > ![Screenshot_1](https://user-images.githubusercontent.com/96000792/173541337-617d0ecd-a173-4bfa-a5c8-7cccdbe21094.png)
+
+
  
 
 
