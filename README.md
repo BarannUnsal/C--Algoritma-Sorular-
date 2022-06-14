@@ -1,4 +1,4 @@
- > C# Algoritma Sorular 
+ # C# Algoritma Sorular 
  
  - Girilen İki Sayının Toplamı
  > ![Screenshot_1](https://user-images.githubusercontent.com/96000792/173457924-1e5007d6-bf36-40a2-b4b7-0f120c6b06f0.png)
